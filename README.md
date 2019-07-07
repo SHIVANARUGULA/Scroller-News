@@ -1,2 +1,2 @@
-# Scroller-News
-A Java application for scrolling the news using twitter data, pushing from my gitlab
+# News-Scroller
+News scroller , which was devloped on the basis of the twitter data provided in our one of the course
